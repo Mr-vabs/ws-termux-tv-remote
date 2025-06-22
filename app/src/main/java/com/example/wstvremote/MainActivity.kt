@@ -1,4 +1,4 @@
-package com.example.wstermuxtv
+package com.example.wstvremote
 
 import android.app.Activity
 import android.media.AudioManager
