@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+*.swp
+
+# Apk output
+*.apk
+*.ap_
+
+# Signing
+*.keystore
+
+# GitHub Actions
+!/.github/workflows/
+
+# Cache
+.cxx/.gradle/
+app/build/
